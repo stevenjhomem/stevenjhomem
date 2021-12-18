@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevenjhomem
-- 👀 I’m interested in learning what is needed in order to become a hardworking and professional software engineer.
-- 🌱 I’m currently enrolled at Lambda School.
+- 👀 I’m a recent BloomTech Graduate with experience in full stack web development and product/team management. 
+- 🌱 I would love to work on new and interesting projects with you!
 - 📫 How to reach me: Feel free to email me at sjhomem@outlook.com
 
 <!---
