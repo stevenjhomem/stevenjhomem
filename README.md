@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stevenjhomem
-- 👀 I’m a recent BloomTech Graduate with experience in full stack web development and product/team management. 
+- 👀 I’m a Software Developer who loves to code in Django. I have experience in full stack web development as well as product/team management. 
 - 🌱 I would love to work on new and interesting projects with you!
 - 📫 How to reach me: Feel free to email me at sjhomem@outlook.com
 
