@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Towards Django ORM Mastery](https://github.com/stevenjhomem/towards-ORM-mastery)
+- 🔭 I’m currently working on [Towards Django ORM Mastery](https://github.com/stevenjhomem/lofty-coding-challenge)
 
 - 🌱 I’m currently learning **all things Django!**
 
