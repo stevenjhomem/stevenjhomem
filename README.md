@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/16KWzcQGSUxSWBZrgoUnTye2oNe_LOWDhvi5BG-SfIr0/edit?usp=sharing](https://docs.google.com/document/d/16KWzcQGSUxSWBZrgoUnTye2oNe_LOWDhvi5BG-SfIr0/edit?usp=sharing)
 
-- ⚡ Fun fact **I actually really enjoyed Real Analysis. It is dry as can be. But it is not a steak, so it needs to steak sauce to be saucy.**
+- ⚡ Fun fact **I actually really enjoyed Real Analysis. It is dry as can be. It is not a steak, so it needs no steak sauce to still be saucy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
