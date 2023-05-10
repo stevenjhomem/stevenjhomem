@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently workingwith Jest and implementing tests for our codebase at work.
+- 🔭 I’m currently working with Jest and implementing tests for our codebase at work.
 
 - 🌱 I’m currently learning **all things Django!**
 
