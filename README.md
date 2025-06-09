@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sjhomem@outlook.com**
   
-- Interactively learn about my past working experiences: [My Professional Portfolio](stevenjhomem.dev)
+- Interactively learn about my past working experiences: [My Professional Portfolio](https://stevenjhomem.dev)
   
 - 📄 Know about my experiences [https://docs.google.com/document/d/16KWzcQGSUxSWBZrgoUnTye2oNe_LOWDhvi5BG-SfIr0/edit?usp=sharing](https://docs.google.com/document/d/16KWzcQGSUxSWBZrgoUnTye2oNe_LOWDhvi5BG-SfIr0/edit?usp=sharing)
 
