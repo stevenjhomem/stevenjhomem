@@ -9,13 +9,9 @@
 
 - 🔭 I’m currently working on two major projects. I am creating a web application for a Coffee Roaster/Glamping Campsite in the Azores, Portugal and I am also in the process of creating a mobile application to facilitate better patient engagement for practitioners. If any of these projects interest you as much as they have interested me, feel free to reach out!
 
-- 🌱 I’m currently learning **all things Django!**
+- 🌱 I’m currently learning how to leverage AI tools like Claude for enhanced productivity.
 
-- 📝 I regularly write articles on [https://medium.com/@sjhomem](https://medium.com/@sjhomem)
-
-- 💬 Ask me about **Django!**
-
-- 📫 How to reach me **sjhomem@outlook.com**
+- 📫 How to reach me **steve.homem@gmail.com**
   
 - Interactively learn about my past working experiences: [My Professional Portfolio](https://stevenjhomem.dev)
   
