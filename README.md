@@ -15,7 +15,7 @@
   
 - Interactively learn about my past working experiences: [My Professional Portfolio](https://stevenjhomem.dev)
   
-- 📄 Know about my experiences [https://docs.google.com/document/d/16KWzcQGSUxSWBZrgoUnTye2oNe_LOWDhvi5BG-SfIr0/edit?usp=sharing](https://docs.google.com/document/d/16KWzcQGSUxSWBZrgoUnTye2oNe_LOWDhvi5BG-SfIr0/edit?usp=sharing)
+- 📄 Know about my experiences [My Professional Resume](https://docs.google.com/document/d/16KWzcQGSUxSWBZrgoUnTye2oNe_LOWDhvi5BG-SfIr0/edit?usp=sharing)
 
 - ⚡ Fun fact **I actually really enjoyed Real Analysis. It is dry as can be. It is not a steak, so it needs no steak sauce to still be saucy.**
 
