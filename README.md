@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven J. Homem</h1>
-<h3 align="center">A passionate backend and people developer!</h3>
+<h3 align="center">A passionate fullstack and people developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenjhomem&label=Profile%20views&color=0e75b6&style=flat" alt="stevenjhomem" /> </p>
 
