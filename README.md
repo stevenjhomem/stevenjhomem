@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working with Jest and implementing tests for our codebase at work.
+- 🔭 I’m currently working on two major projects. I am creating a web application for a Coffee Roaster/Glamping Campsite in the Azores, Portugal and I am also in the process of creating a mobile application to facilitate better patient engagement for practitioners. If any of these projects interest you as much as they have interested me, feel free to reach out!
 
 - 🌱 I’m currently learning **all things Django!**
 
@@ -16,7 +16,9 @@
 - 💬 Ask me about **Django!**
 
 - 📫 How to reach me **sjhomem@outlook.com**
-
+  
+- Interactively learn about my past working experiences: [My Professional Portfolio](stevenjhomem.dev)
+  
 - 📄 Know about my experiences [https://docs.google.com/document/d/16KWzcQGSUxSWBZrgoUnTye2oNe_LOWDhvi5BG-SfIr0/edit?usp=sharing](https://docs.google.com/document/d/16KWzcQGSUxSWBZrgoUnTye2oNe_LOWDhvi5BG-SfIr0/edit?usp=sharing)
 
 - ⚡ Fun fact **I actually really enjoyed Real Analysis. It is dry as can be. It is not a steak, so it needs no steak sauce to still be saucy.**
